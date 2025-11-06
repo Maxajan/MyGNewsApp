@@ -13,7 +13,7 @@ Features
 -  **Search functionality** — find news by keyword  
 -  **Save favorites** — read your favorite articles anytime  
 
-       **Tech Stack**
+  *Tech Stack*
  Layer :   Technology                    
  UI :   Jetpack Compose 
  Architecture:  MVVM 
